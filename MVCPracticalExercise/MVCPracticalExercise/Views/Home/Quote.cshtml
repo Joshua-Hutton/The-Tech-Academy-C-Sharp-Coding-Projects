@@ -1,0 +1,24 @@
+﻿@using MVCPracticalExercise.Models
+
+@model application
+
+<div class="row no-gutters m-3">
+    <div class="card">
+        <div class="card-header">
+            <h2 class="m-0">Incernce Quote</h2>
+        </div>
+        <div class="card-body">
+           
+            <div class="row">
+                Hello @Model.FirstName @Model.LastName  
+            </div>
+            <div class="row">
+                For your @Model.CarYear @Model.CarMake @Model.CarModel with @Model.Coverage coverage.
+            </div>
+            <div class="row">
+                Your Monthly pay will be $@Model.Quote
+            </div>
+           
+        </div>
+    </div>
+</div>

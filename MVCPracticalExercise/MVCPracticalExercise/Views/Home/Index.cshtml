@@ -1,0 +1,49 @@
+﻿<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header">
+            <h2 class="m-0">Insuranace Quotes</h2>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("Quote", "Home", FormMethod.Post))
+            {
+            <div class="row no-gutters">
+                <div class="form-group col-md-12">
+                    <input name="firstName" type="text" class="form-control" placeholder="First Name" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="lastName" type="text" class="form-control" placeholder="Last Name" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="emailAddress" type="email" class="form-control" placeholder="Email Address" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="dob" type="date" class="form-control" placeholder="Birthday" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="carYear" type="text" class="form-control" placeholder="Vehicle Model Year" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="carMake" type="text" class="form-control" placeholder="Vehicle Make" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="carModel" type="text" class="form-control" placeholder="Vehicle Model" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label>Have you ever gotten a DUI?</label>
+                    <div class="form-group radio">
+                        <label class="radio-inline col-m-2"><input name="dui" type="radio" value="true" />Yes</label>
+                        <label class="radio-inline col-m-2"><input name="dui" type="radio" value="false" />No</label>
+                    </div>
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="speeding" type="text" class="form-control" placeholder="Number of Speeding Tickets" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="covrage" type="text" class="form-control" placeholder="Full or Liability" />
+                </div>
+                <button type="submit" class="btn btn-info">Get Quote!</button>
+            </div>
+            }
+        </div>
+    </div>
+</div>
