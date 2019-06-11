@@ -1,0 +1,67 @@
+﻿@model FinalExercise.Models.Ring
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Ring</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.WireGauge)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WireGauge)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RingSize)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RingSize)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Color)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Color)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Matrial)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Matrial)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cut)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cut)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

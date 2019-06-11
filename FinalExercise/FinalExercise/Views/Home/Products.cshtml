@@ -1,0 +1,49 @@
+﻿@using FinalExercise.ViewModels
+
+@model ViewModel
+
+<h2>Products</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Quantity</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model.Table)
+        {
+            <tr>
+                <th scope="row">@t.Key</th>
+                <td>@t.Value</td>
+            </tr>
+        }
+        <tr>
+            <th scope="row"><h3>More Details</h3></th>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Tops</th>
+            <td>
+                <button class="btn btn-dark" type="button" onclick="location.href='@Url.Action("Index", "Tops")'">Go To</button>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">Dice Bags</th>
+            <td>
+                <button class="btn btn-dark" type="button" onclick="location.href='@Url.Action("Index", "DiceBags")'">Go To</button>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">Hackysacks</th>
+            <td>
+                <button class="btn btn-dark" type="button" onclick="location.href='@Url.Action("Index", "Hackysacks")'">Go To</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
