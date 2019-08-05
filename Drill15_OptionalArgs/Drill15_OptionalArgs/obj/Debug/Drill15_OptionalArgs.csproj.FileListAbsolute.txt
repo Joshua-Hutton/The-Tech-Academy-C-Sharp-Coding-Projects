@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill15_OptionalArgs\Drill15_OptionalArgs\bin\Debug\Drill15_OptionalArgs.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill15_OptionalArgs\Drill15_OptionalArgs\bin\Debug\Drill15_OptionalArgs.exe
+C:\Users\Joshua Hutton\source\repos\Drill15_OptionalArgs\Drill15_OptionalArgs\bin\Debug\Drill15_OptionalArgs.pdb
+C:\Users\Joshua Hutton\source\repos\Drill15_OptionalArgs\Drill15_OptionalArgs\obj\Debug\Drill15_OptionalArgs.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill15_OptionalArgs\Drill15_OptionalArgs\obj\Debug\Drill15_OptionalArgs.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill15_OptionalArgs\Drill15_OptionalArgs\obj\Debug\Drill15_OptionalArgs.exe
+C:\Users\Joshua Hutton\source\repos\Drill15_OptionalArgs\Drill15_OptionalArgs\obj\Debug\Drill15_OptionalArgs.pdb

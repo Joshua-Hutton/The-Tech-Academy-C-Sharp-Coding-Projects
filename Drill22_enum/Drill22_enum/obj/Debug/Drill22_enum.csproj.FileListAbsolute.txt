@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill22_enum\Drill22_enum\obj\Debug\Drill22_enum.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill22_enum\Drill22_enum\obj\Debug\Drill22_enum.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill22_enum\Drill22_enum\bin\Debug\Drill22_enum.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill22_enum\Drill22_enum\bin\Debug\Drill22_enum.exe
+C:\Users\Joshua Hutton\source\repos\Drill22_enum\Drill22_enum\bin\Debug\Drill22_enum.pdb
+C:\Users\Joshua Hutton\source\repos\Drill22_enum\Drill22_enum\obj\Debug\Drill22_enum.exe
+C:\Users\Joshua Hutton\source\repos\Drill22_enum\Drill22_enum\obj\Debug\Drill22_enum.pdb

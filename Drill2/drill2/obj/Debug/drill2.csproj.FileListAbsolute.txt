@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\drill2\drill2\bin\Debug\drill2.exe.config
+C:\Users\Joshua Hutton\source\repos\drill2\drill2\bin\Debug\drill2.exe
+C:\Users\Joshua Hutton\source\repos\drill2\drill2\bin\Debug\drill2.pdb
+C:\Users\Joshua Hutton\source\repos\drill2\drill2\obj\Debug\drill2.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\drill2\drill2\obj\Debug\drill2.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\drill2\drill2\obj\Debug\drill2.exe
+C:\Users\Joshua Hutton\source\repos\drill2\drill2\obj\Debug\drill2.pdb

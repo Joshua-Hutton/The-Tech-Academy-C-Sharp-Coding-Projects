@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill27_constVar\Drill27_constVar\bin\Debug\Drill27_constVar.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill27_constVar\Drill27_constVar\bin\Debug\Drill27_constVar.exe
+C:\Users\Joshua Hutton\source\repos\Drill27_constVar\Drill27_constVar\bin\Debug\Drill27_constVar.pdb
+C:\Users\Joshua Hutton\source\repos\Drill27_constVar\Drill27_constVar\obj\Debug\Drill27_constVar.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill27_constVar\Drill27_constVar\obj\Debug\Drill27_constVar.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill27_constVar\Drill27_constVar\obj\Debug\Drill27_constVar.exe
+C:\Users\Joshua Hutton\source\repos\Drill27_constVar\Drill27_constVar\obj\Debug\Drill27_constVar.pdb

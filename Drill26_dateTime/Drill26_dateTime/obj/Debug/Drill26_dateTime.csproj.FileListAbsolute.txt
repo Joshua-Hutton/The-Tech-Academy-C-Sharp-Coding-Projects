@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill26_dateTime\Drill26_dateTime\bin\Debug\Drill26_dateTime.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill26_dateTime\Drill26_dateTime\bin\Debug\Drill26_dateTime.exe
+C:\Users\Joshua Hutton\source\repos\Drill26_dateTime\Drill26_dateTime\bin\Debug\Drill26_dateTime.pdb
+C:\Users\Joshua Hutton\source\repos\Drill26_dateTime\Drill26_dateTime\obj\Debug\Drill26_dateTime.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill26_dateTime\Drill26_dateTime\obj\Debug\Drill26_dateTime.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill26_dateTime\Drill26_dateTime\obj\Debug\Drill26_dateTime.exe
+C:\Users\Joshua Hutton\source\repos\Drill26_dateTime\Drill26_dateTime\obj\Debug\Drill26_dateTime.pdb

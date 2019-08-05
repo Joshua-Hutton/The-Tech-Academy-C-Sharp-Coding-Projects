@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill21_GenaricType\Drill21_GenaricType\bin\Debug\Drill21_GenaricType.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill21_GenaricType\Drill21_GenaricType\bin\Debug\Drill21_GenaricType.exe
+C:\Users\Joshua Hutton\source\repos\Drill21_GenaricType\Drill21_GenaricType\bin\Debug\Drill21_GenaricType.pdb
+C:\Users\Joshua Hutton\source\repos\Drill21_GenaricType\Drill21_GenaricType\obj\Debug\Drill21_GenaricType.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill21_GenaricType\Drill21_GenaricType\obj\Debug\Drill21_GenaricType.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill21_GenaricType\Drill21_GenaricType\obj\Debug\Drill21_GenaricType.exe
+C:\Users\Joshua Hutton\source\repos\Drill21_GenaricType\Drill21_GenaricType\obj\Debug\Drill21_GenaricType.pdb

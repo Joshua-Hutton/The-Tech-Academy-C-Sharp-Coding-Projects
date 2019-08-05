@@ -1,0 +1,6 @@
+C:\Users\Joshua Hutton\source\repos\Drill1\Drill1\bin\Debug\Drill1.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill1\Drill1\bin\Debug\Drill1.exe
+C:\Users\Joshua Hutton\source\repos\Drill1\Drill1\bin\Debug\Drill1.pdb
+C:\Users\Joshua Hutton\source\repos\Drill1\Drill1\obj\Debug\Drill1.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill1\Drill1\obj\Debug\Drill1.exe
+C:\Users\Joshua Hutton\source\repos\Drill1\Drill1\obj\Debug\Drill1.pdb

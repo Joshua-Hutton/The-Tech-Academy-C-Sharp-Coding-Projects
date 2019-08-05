@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill24_LambdaFunctions\Drill24_LambdaFunctions\bin\Debug\Drill24_LambdaFunctions.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill24_LambdaFunctions\Drill24_LambdaFunctions\bin\Debug\Drill24_LambdaFunctions.exe
+C:\Users\Joshua Hutton\source\repos\Drill24_LambdaFunctions\Drill24_LambdaFunctions\bin\Debug\Drill24_LambdaFunctions.pdb
+C:\Users\Joshua Hutton\source\repos\Drill24_LambdaFunctions\Drill24_LambdaFunctions\obj\Debug\Drill24_LambdaFunctions.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill24_LambdaFunctions\Drill24_LambdaFunctions\obj\Debug\Drill24_LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill24_LambdaFunctions\Drill24_LambdaFunctions\obj\Debug\Drill24_LambdaFunctions.exe
+C:\Users\Joshua Hutton\source\repos\Drill24_LambdaFunctions\Drill24_LambdaFunctions\obj\Debug\Drill24_LambdaFunctions.pdb

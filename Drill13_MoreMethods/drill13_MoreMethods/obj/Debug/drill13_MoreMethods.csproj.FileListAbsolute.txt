@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\drill13_MoreMethods\drill13_MoreMethods\bin\Debug\drill13_MoreMethods.exe.config
+C:\Users\Joshua Hutton\source\repos\drill13_MoreMethods\drill13_MoreMethods\bin\Debug\drill13_MoreMethods.exe
+C:\Users\Joshua Hutton\source\repos\drill13_MoreMethods\drill13_MoreMethods\bin\Debug\drill13_MoreMethods.pdb
+C:\Users\Joshua Hutton\source\repos\drill13_MoreMethods\drill13_MoreMethods\obj\Debug\drill13_MoreMethods.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\drill13_MoreMethods\drill13_MoreMethods\obj\Debug\drill13_MoreMethods.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\drill13_MoreMethods\drill13_MoreMethods\obj\Debug\drill13_MoreMethods.exe
+C:\Users\Joshua Hutton\source\repos\drill13_MoreMethods\drill13_MoreMethods\obj\Debug\drill13_MoreMethods.pdb

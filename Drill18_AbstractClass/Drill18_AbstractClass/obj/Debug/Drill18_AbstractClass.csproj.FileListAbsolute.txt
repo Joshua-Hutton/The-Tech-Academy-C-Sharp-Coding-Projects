@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill18_AbstractClass\Drill18_AbstractClass\bin\Debug\Drill18_AbstractClass.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill18_AbstractClass\Drill18_AbstractClass\bin\Debug\Drill18_AbstractClass.exe
+C:\Users\Joshua Hutton\source\repos\Drill18_AbstractClass\Drill18_AbstractClass\bin\Debug\Drill18_AbstractClass.pdb
+C:\Users\Joshua Hutton\source\repos\Drill18_AbstractClass\Drill18_AbstractClass\obj\Debug\Drill18_AbstractClass.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill18_AbstractClass\Drill18_AbstractClass\obj\Debug\Drill18_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill18_AbstractClass\Drill18_AbstractClass\obj\Debug\Drill18_AbstractClass.exe
+C:\Users\Joshua Hutton\source\repos\Drill18_AbstractClass\Drill18_AbstractClass\obj\Debug\Drill18_AbstractClass.pdb

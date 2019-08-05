@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill3\Drill3\bin\Debug\Drill3.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill3\Drill3\bin\Debug\Drill3.exe
+C:\Users\Joshua Hutton\source\repos\Drill3\Drill3\bin\Debug\Drill3.pdb
+C:\Users\Joshua Hutton\source\repos\Drill3\Drill3\obj\Debug\Drill3.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill3\Drill3\obj\Debug\Drill3.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill3\Drill3\obj\Debug\Drill3.exe
+C:\Users\Joshua Hutton\source\repos\Drill3\Drill3\obj\Debug\Drill3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill9_ArraysAndLists\Drill9_ArraysAndLists\bin\Debug\Drill9_ArraysAndLists.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill9_ArraysAndLists\Drill9_ArraysAndLists\bin\Debug\Drill9_ArraysAndLists.exe
+C:\Users\Joshua Hutton\source\repos\Drill9_ArraysAndLists\Drill9_ArraysAndLists\bin\Debug\Drill9_ArraysAndLists.pdb
+C:\Users\Joshua Hutton\source\repos\Drill9_ArraysAndLists\Drill9_ArraysAndLists\obj\Debug\Drill9_ArraysAndLists.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill9_ArraysAndLists\Drill9_ArraysAndLists\obj\Debug\Drill9_ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill9_ArraysAndLists\Drill9_ArraysAndLists\obj\Debug\Drill9_ArraysAndLists.exe
+C:\Users\Joshua Hutton\source\repos\Drill9_ArraysAndLists\Drill9_ArraysAndLists\obj\Debug\Drill9_ArraysAndLists.pdb

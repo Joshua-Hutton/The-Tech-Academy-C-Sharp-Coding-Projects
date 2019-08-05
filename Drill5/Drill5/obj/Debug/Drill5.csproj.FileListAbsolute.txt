@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill5\Drill5\obj\Debug\Drill5.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill5\Drill5\obj\Debug\Drill5.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill5\Drill5\bin\Debug\Drill5.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill5\Drill5\bin\Debug\Drill5.exe
+C:\Users\Joshua Hutton\source\repos\Drill5\Drill5\bin\Debug\Drill5.pdb
+C:\Users\Joshua Hutton\source\repos\Drill5\Drill5\obj\Debug\Drill5.exe
+C:\Users\Joshua Hutton\source\repos\Drill5\Drill5\obj\Debug\Drill5.pdb

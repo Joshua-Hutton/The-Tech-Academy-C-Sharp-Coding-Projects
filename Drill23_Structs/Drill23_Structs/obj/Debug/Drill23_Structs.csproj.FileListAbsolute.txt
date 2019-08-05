@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill23_Structs\Drill23_Structs\bin\Debug\Drill23_Structs.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill23_Structs\Drill23_Structs\bin\Debug\Drill23_Structs.exe
+C:\Users\Joshua Hutton\source\repos\Drill23_Structs\Drill23_Structs\bin\Debug\Drill23_Structs.pdb
+C:\Users\Joshua Hutton\source\repos\Drill23_Structs\Drill23_Structs\obj\Debug\Drill23_Structs.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill23_Structs\Drill23_Structs\obj\Debug\Drill23_Structs.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill23_Structs\Drill23_Structs\obj\Debug\Drill23_Structs.exe
+C:\Users\Joshua Hutton\source\repos\Drill23_Structs\Drill23_Structs\obj\Debug\Drill23_Structs.pdb

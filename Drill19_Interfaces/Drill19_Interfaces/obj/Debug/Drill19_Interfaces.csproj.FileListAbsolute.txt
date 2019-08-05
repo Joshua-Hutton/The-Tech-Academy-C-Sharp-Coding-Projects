@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill19_Interfaces\Drill19_Interfaces\bin\Debug\Drill19_Interfaces.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill19_Interfaces\Drill19_Interfaces\bin\Debug\Drill19_Interfaces.exe
+C:\Users\Joshua Hutton\source\repos\Drill19_Interfaces\Drill19_Interfaces\bin\Debug\Drill19_Interfaces.pdb
+C:\Users\Joshua Hutton\source\repos\Drill19_Interfaces\Drill19_Interfaces\obj\Debug\Drill19_Interfaces.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill19_Interfaces\Drill19_Interfaces\obj\Debug\Drill19_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill19_Interfaces\Drill19_Interfaces\obj\Debug\Drill19_Interfaces.exe
+C:\Users\Joshua Hutton\source\repos\Drill19_Interfaces\Drill19_Interfaces\obj\Debug\Drill19_Interfaces.pdb

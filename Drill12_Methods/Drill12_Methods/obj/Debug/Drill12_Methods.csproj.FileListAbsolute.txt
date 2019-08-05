@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill12_Methods\Drill12_Methods\bin\Debug\Drill12_Methods.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill12_Methods\Drill12_Methods\bin\Debug\Drill12_Methods.exe
+C:\Users\Joshua Hutton\source\repos\Drill12_Methods\Drill12_Methods\bin\Debug\Drill12_Methods.pdb
+C:\Users\Joshua Hutton\source\repos\Drill12_Methods\Drill12_Methods\obj\Debug\Drill12_Methods.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill12_Methods\Drill12_Methods\obj\Debug\Drill12_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill12_Methods\Drill12_Methods\obj\Debug\Drill12_Methods.exe
+C:\Users\Joshua Hutton\source\repos\Drill12_Methods\Drill12_Methods\obj\Debug\Drill12_Methods.pdb

@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill17_Inhartence\Drill17_Inhartence\bin\Debug\Drill17_Inhartence.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill17_Inhartence\Drill17_Inhartence\bin\Debug\Drill17_Inhartence.exe
+C:\Users\Joshua Hutton\source\repos\Drill17_Inhartence\Drill17_Inhartence\bin\Debug\Drill17_Inhartence.pdb
+C:\Users\Joshua Hutton\source\repos\Drill17_Inhartence\Drill17_Inhartence\obj\Debug\Drill17_Inhartence.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill17_Inhartence\Drill17_Inhartence\obj\Debug\Drill17_Inhartence.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill17_Inhartence\Drill17_Inhartence\obj\Debug\Drill17_Inhartence.exe
+C:\Users\Joshua Hutton\source\repos\Drill17_Inhartence\Drill17_Inhartence\obj\Debug\Drill17_Inhartence.pdb

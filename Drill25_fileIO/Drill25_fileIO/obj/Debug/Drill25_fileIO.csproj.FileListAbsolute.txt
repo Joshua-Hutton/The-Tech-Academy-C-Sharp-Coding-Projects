@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill25_fileIO\Drill25_fileIO\bin\Debug\Drill25_fileIO.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill25_fileIO\Drill25_fileIO\bin\Debug\Drill25_fileIO.exe
+C:\Users\Joshua Hutton\source\repos\Drill25_fileIO\Drill25_fileIO\bin\Debug\Drill25_fileIO.pdb
+C:\Users\Joshua Hutton\source\repos\Drill25_fileIO\Drill25_fileIO\obj\Debug\Drill25_fileIO.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill25_fileIO\Drill25_fileIO\obj\Debug\Drill25_fileIO.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill25_fileIO\Drill25_fileIO\obj\Debug\Drill25_fileIO.exe
+C:\Users\Joshua Hutton\source\repos\Drill25_fileIO\Drill25_fileIO\obj\Debug\Drill25_fileIO.pdb

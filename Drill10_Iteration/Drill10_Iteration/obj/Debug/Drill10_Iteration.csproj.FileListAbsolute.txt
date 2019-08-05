@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill10_Iteration\Drill10_Iteration\bin\Debug\Drill10_Iteration.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill10_Iteration\Drill10_Iteration\bin\Debug\Drill10_Iteration.exe
+C:\Users\Joshua Hutton\source\repos\Drill10_Iteration\Drill10_Iteration\bin\Debug\Drill10_Iteration.pdb
+C:\Users\Joshua Hutton\source\repos\Drill10_Iteration\Drill10_Iteration\obj\Debug\Drill10_Iteration.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill10_Iteration\Drill10_Iteration\obj\Debug\Drill10_Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill10_Iteration\Drill10_Iteration\obj\Debug\Drill10_Iteration.exe
+C:\Users\Joshua Hutton\source\repos\Drill10_Iteration\Drill10_Iteration\obj\Debug\Drill10_Iteration.pdb

@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\Drill8_Strings\Drill8_Strings\bin\Debug\Drill8_Strings.exe.config
+C:\Users\Joshua Hutton\source\repos\Drill8_Strings\Drill8_Strings\bin\Debug\Drill8_Strings.exe
+C:\Users\Joshua Hutton\source\repos\Drill8_Strings\Drill8_Strings\bin\Debug\Drill8_Strings.pdb
+C:\Users\Joshua Hutton\source\repos\Drill8_Strings\Drill8_Strings\obj\Debug\Drill8_Strings.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\Drill8_Strings\Drill8_Strings\obj\Debug\Drill8_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\Drill8_Strings\Drill8_Strings\obj\Debug\Drill8_Strings.exe
+C:\Users\Joshua Hutton\source\repos\Drill8_Strings\Drill8_Strings\obj\Debug\Drill8_Strings.pdb

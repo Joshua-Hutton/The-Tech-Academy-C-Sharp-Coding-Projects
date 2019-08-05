@@ -1,0 +1,7 @@
+C:\Users\Joshua Hutton\source\repos\drill6\drill6\obj\Debug\drill6.csprojAssemblyReference.cache
+C:\Users\Joshua Hutton\source\repos\drill6\drill6\obj\Debug\drill6.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Hutton\source\repos\drill6\drill6\bin\Debug\drill6.exe.config
+C:\Users\Joshua Hutton\source\repos\drill6\drill6\bin\Debug\drill6.exe
+C:\Users\Joshua Hutton\source\repos\drill6\drill6\bin\Debug\drill6.pdb
+C:\Users\Joshua Hutton\source\repos\drill6\drill6\obj\Debug\drill6.exe
+C:\Users\Joshua Hutton\source\repos\drill6\drill6\obj\Debug\drill6.pdb
